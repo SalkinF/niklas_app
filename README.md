@@ -1,1 +1,1 @@
-' My NEw App
+' My New App
